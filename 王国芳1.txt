@@ -1,2 +1,0 @@
-git init 初始化项目
-git add README.md 添加README.md到暂存区
